@@ -1,0 +1,8 @@
+{
+  "name": "AiSobes",
+  "description": "AI-powered HR screening tool featuring a digital avatar for automated candidate interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
